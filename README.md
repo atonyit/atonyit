@@ -7,10 +7,10 @@
       I'm a sophomore undergraduate majoring in computer science at the University of Houston!
     </p>
     <p>
-      I’m currently learning to build <strong>responsive web applications as well as furthering my knowledge in C++</strong>.
+      I’m currently learning to build <strong>responsive web applications</strong> as well as furthering my knowledge in C++.
     </p>
     <p>
-      I have a keen interest in front-end design. So, I'm learning a multitude of frameworks and mastering JavaScript at the moment.
+      I have a keen interest in front-end design. So, I'm learning a <strong>multitude</strong> of frameworks and mastering JavaScript at the moment.
     </p>
     <p>
       📫 Feel free to <strong>reach out to me</strong> at <a href="mailto:alanitoyah96@gmail.com">alanitoyah96@gmail.com</a>.
