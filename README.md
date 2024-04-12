@@ -1,7 +1,7 @@
   <div class="container">
     <h1 align = "center"> About Me 📚</h1>
     <p>
-      My name is Alan Tony-Itoyah. I was born and raised in the DFW area. Besides programming, I also enjoy reading and working out in my free time.
+      My name is Alan Tony-Itoyah. I was born and raised in the DFW area. Besides programming, I enjoy reading and working out in my free time.
     </p>
     <p>
       I'm a sophomore undergraduate majoring in computer science at the University of Houston!
