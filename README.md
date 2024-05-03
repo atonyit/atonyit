@@ -16,7 +16,7 @@
       📫 Feel free to <strong>reach out to me</strong> at <a href="mailto:alanitoyah96@gmail.com">alanitoyah96@gmail.com</a>.
     </p>
     <div class="skills">
-      <h1 align = "center" > Technologies Learned </h1>
+      <h1 align = "center" > Technologies / Tools </h1>
       <br>
       <p align = "center">
         <a href="https://skillicons.dev">
