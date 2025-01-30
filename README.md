@@ -7,7 +7,7 @@
         I'm a junior studying <strong>Computer Science</strong> at the University of Houston, currently taking courses in <strong>Operating Systems</strong> and <strong>Database Systems</strong>.
     </p>
     <p>
-        I'm focused on improving my skills in <strong>full-stack development</strong>, exploring frameworks, and deepening my knowledge of C++.
+        I'm focused on improving my skills in <strong>full-stack development</strong>, exploring frameworks, and deepening my knowledge of SQL.
     </p>
     <p>
         I’m interested in optimizing system performance and databases, with the goal of high-quality application development.
